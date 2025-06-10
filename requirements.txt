@@ -1,0 +1,9 @@
+Flask
+numpy
+opencv-python
+tensorflow
+keras
+tensorflow
+pillow
+
+D:\\Capstone Project\\Models\\Xception_best_model.h5
